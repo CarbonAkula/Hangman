@@ -22,7 +22,7 @@ public class Main {
 
         System.out.println("Type a word or phrase. Make sure the other player doesn't see!");
         playerWord = keyboard.nextLine();
-
+            hi
 
     }
 }
